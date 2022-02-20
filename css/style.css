@@ -1,0 +1,17 @@
+.slider-container{
+    height: 240px;
+}
+
+
+.parallax-container{
+    height: 250px;
+}
+
+.parallax img{
+    opacity: 0.8 !important;
+}
+
+section {
+    padding: 20px 0;
+}
+
